@@ -15,4 +15,4 @@ alert("You canceled at least one of the inputs. Please refresh the page and try 
 } 
 else {
 console.log(`The user just confirmed that they got ${numberOfWins} wins, ${numberOfLooses} losses and ${numberOfDraws} draws.`);
-}
+};
